@@ -2,4 +2,4 @@
 
 My solutions in 30 days LeetCode challenge
 
-[Link](https://leetcode.com/tanmayi03/)
+[Leetcode Profile - Tanmayi](https://leetcode.com/tanmayi03/)
